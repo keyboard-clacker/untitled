@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled]]></title><description><![CDATA[A documentation of my thoughts and learnings as a software engineer.]]></description><link>https://keyboard-clacker.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 28 Feb 2020 10:10:43 GMT</lastBuildDate><item><title><![CDATA[Inspiration]]></title><description><![CDATA[Inspiration is what gets you up in the morning. It’s that feeling where you
+can’t wait to pound out those ’s and write that chrome extension…]]></description><link>https://keyboard-clacker.github.io/inspiration/</link><guid isPermaLink="false">https://keyboard-clacker.github.io/inspiration/</guid><pubDate>Fri, 28 Feb 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Inspiration is what gets you up in the morning. It’s that feeling where you
+can’t wait to pound out those &lt;code class=&quot;language-text&quot;&gt;.apply&lt;/code&gt;’s and write that chrome extension you’ve
+been meaning to finish. What gets you through the day?&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/5bcda7e7636598a01b329e845d58b95d/dde82/beach.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 28.57142857142857%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAGABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAME/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwL/2gAMAwEAAhADEAAAAdciwkED/8QAGBAAAgMAAAAAAAAAAAAAAAAAAQIAEBP/2gAIAQEAAQUCzVYRX//EABgRAAIDAAAAAAAAAAAAAAAAAAABAxES/9oACAEDAQE/AZHRpn//xAAVEQEBAAAAAAAAAAAAAAAAAAACEP/aAAgBAgEBPwEz/8QAFxAAAwEAAAAAAAAAAAAAAAAAAAExIf/aAAgBAQAGPwLCIiP/xAAZEAACAwEAAAAAAAAAAAAAAAAAIRGxwfH/2gAIAQEAAT8hYuxGJPA//9oADAMBAAIAAwAAABD3/wD/xAAXEQEBAQEAAAAAAAAAAAAAAAABACFR/9oACAEDAQE/EGWR3v/EABYRAQEBAAAAAAAAAAAAAAAAAAEREP/aAAgBAgEBPxBsmf/EABoQAAICAwAAAAAAAAAAAAAAAAABMfAhgeH/2gAIAQEAAT8QziOIUITu3ZX0f//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;beach&quot;
+        title=&quot;beach&quot;
+        src=&quot;/static/5bcda7e7636598a01b329e845d58b95d/1c72d/beach.jpg&quot;
+        srcset=&quot;/static/5bcda7e7636598a01b329e845d58b95d/a80bd/beach.jpg 148w,
+/static/5bcda7e7636598a01b329e845d58b95d/1c91a/beach.jpg 295w,
+/static/5bcda7e7636598a01b329e845d58b95d/1c72d/beach.jpg 590w,
+/static/5bcda7e7636598a01b329e845d58b95d/a8a14/beach.jpg 885w,
+/static/5bcda7e7636598a01b329e845d58b95d/dde82/beach.jpg 910w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Recently after finishing a major in Computer Science, I’ve been thinking a lot
+about how I should spend my time, and why I do what I do (that being mainly web
+development these days). Although I finished my major fall semester, I still had
+one last class before graduating, so I decided to try to work throughout the
+semester instead of taking it easy. Though my friends may argue that my sitting
+around in sweats crushing some carefully crafted CoffeeScript and getting to
+work with some truly incredible people may be a walk in the park compared to
+their once-every-other-week problem sets, it was different than anything I’ve
+ever experienced. There were no rules, everyone was watching your every
+semicolon (but not really because CoffeeScript), and more importantly we were
+all working together. It might sound strange, but you’ve never felt the pain of
+working on a team until you’ve done a &lt;code class=&quot;language-text&quot;&gt;git merge master&lt;/code&gt;, run &lt;code class=&quot;language-text&quot;&gt;git status&lt;/code&gt;, and
+seen more red than Freddie Krueger on Elm Street. After a while I got into the
+rhythm, writing specs for features and bugs, and throwing together angular
+directives with JST templates, and it started making a little more sense.&lt;/p&gt;
+&lt;p&gt;But why was I doing it? Obviously there’s the axiomatic generalization that it’s
+my job, but, I had to ask myself, why did I pick this job? Was it because I was
+comfortable with front-end development? Or maybe because I’m not fit for a role
+in algorithms development, as it’s been deemed by previous potential employers
+(cough all of silicon valley cough). After I thought about it for a bit, all the
+while still working and chatting with my co-workers over slack or reviewing PR’s
+on GitHub, I came to realize that it’s not the money, it’s not the work, and
+it’s not even my wonderful peers– it’s the chance to make a difference, and to
+sculpt the &lt;a href=&quot;virtual%20landscape%20of%20our%0Afuture&quot;&gt; virtual landscape of our future &lt;/a&gt;. It may seem overtly self-centered and egocentric, but I dare say you
+have to be.&lt;/p&gt;
+&lt;p&gt;After all, what else wakes you up more than the satisfaction of the noumenon
+and anticipation of what lies in store for tomorrow&lt;/p&gt;</content:encoded></item></channel></rss>
