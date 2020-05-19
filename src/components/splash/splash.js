@@ -8,7 +8,7 @@ const Splash = () => {
 
 	let Wave = Fragment;
 	if (isMounted) {
-		Wave = require('./Wave').default;
+		Wave = require('./wave').default;
 	}
 
 	return (
