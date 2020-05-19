@@ -1,0 +1,55 @@
+@value colors: '../../styles/colors.module.css';
+@value beige, yellow from colors;
+
+.container {
+  background-color: beige;
+  height: 60vh;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.name {
+  display: inline-block;
+  font-size: 2em;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-100%);
+  right: 20%;
+}
+
+.wave1,
+.wave2,
+.wave3 {
+  transform: rotate(-40deg);
+}
+
+.wave1 {
+  margin-left: -70%;
+}
+
+.wave2 {
+  transform: rotate(-40deg) translateX(75px);
+  margin-left: -70%;
+}
+
+.wave3 {
+  margin-left: -70%;
+}
+
+.big-blob-container {
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  right: 0;
+  left: 50%;
+  top: 0;
+}
+
+.big-blob {
+  object-fit: cover;
+  object-position: left;
+  height: 100%;
+  width: 100%;
+  
+}
