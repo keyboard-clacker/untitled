@@ -1,11 +1,15 @@
-import React from 'react';
-import Wave from './wave';
+import React, { Fragment } from 'react';
 import bigBlob from './big-blob.png';
 import useMounted from '../../utils/useMounted';
 import './splash.module.css';
 
 const Splash = () => {
 	const isMounted = useMounted();
+
+	let Wave = Fragment;
+	if (isMounted) {
+		Wave = require('./Wave');
+	}
 
 	return (
 		<div styleName="container">
