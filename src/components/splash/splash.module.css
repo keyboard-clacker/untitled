@@ -41,9 +41,15 @@
   height: 100%;
   object-fit: contain;
   position: absolute;
-  right: 0;
+  right: -100px;
   left: 50%;
   top: 0;
+}
+
+.big-blob-relative {
+  height: 100%;
+  position: relative;
+  width: 100%;
 }
 
 .big-blob {
@@ -51,5 +57,19 @@
   object-position: left;
   height: 100%;
   width: 100%;
-  
+}
+
+.blob-outline--left,
+.blob-outline--far-left {
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+
+.blob-outline--left {
+  left: -100px;
+}
+
+.blob-outline--far-left {
+  left: -150px;
 }
