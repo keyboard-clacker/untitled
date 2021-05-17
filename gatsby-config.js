@@ -1,12 +1,12 @@
 module.exports = {
 	siteMetadata: {
-		title: `Untitled Project`,
+		title: `UNTITLED`,
 		author: {
 			name: `Kyle Holzinger`,
 			summary: `who lives and works in New York trying to bring people value through software.`,
 		},
 		description: `A documentation of my thoughts and learnings as a software engineer.`,
-		siteUrl: `https://keyboard-clacker.github.io`,
+		siteUrl: `https://kyleholzinger.dev`,
 		social: {
 			twitter: `kyleholzinger`,
 		},
