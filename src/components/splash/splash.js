@@ -15,13 +15,6 @@ const Splash = () => {
 
   return (
     <div styleName="container">
-      {isMounted ? (
-        <>
-          <Wave styleName="wave1" />￼
-          <Wave styleName="wave2" />￼
-          <Wave styleName="wave3" />￼
-        </>
-      ) : null}
       <div styleName="big-blob-container">
         <div styleName="big-blob-relative">
           <img styleName="big-blob" src={bigBlob} alt="blob outline" />
@@ -37,7 +30,7 @@ const Splash = () => {
           />
         </div>
       </div>
-      <span styleName="name">Kyle Holzinger</span>
+      <span styleName="name">UNTITLED</span>
     </div>
   )
 }
