@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9ed74d84-8666-4469-a610-676b858f62f1/deploy-status)](https://app.netlify.com/sites/keyboard-clacker/deploys)
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
