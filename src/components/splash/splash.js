@@ -8,11 +8,6 @@ import "./splash.module.css"
 const Splash = () => {
   const isMounted = useMounted()
 
-  let Wave = Fragment
-  if (isMounted) {
-    Wave = require("./wave").default
-  }
-
   return (
     <div styleName="container">
       <div styleName="big-blob-container">
