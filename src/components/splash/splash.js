@@ -1,13 +1,10 @@
-import React, { Fragment } from "react"
+import React from "react"
 import bigBlob from "./big-blob.png"
 import blobOutlineLeft from "./blob-outline-left.png"
 import blobOutlineFarLeft from "./blob-outline-far-left.png"
-import useMounted from "../../utils/useMounted"
 import "./splash.module.css"
 
 const Splash = () => {
-  const isMounted = useMounted()
-
   return (
     <div styleName="container">
       <div styleName="big-blob-container">
