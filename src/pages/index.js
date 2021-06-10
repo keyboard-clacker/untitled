@@ -26,6 +26,7 @@ const BlogIndex = ({ data, location }) => {
 								<h3
 									style={{
 										marginBottom: rhythm(1 / 4),
+                    fontFamily: 'Financier'
 									}}
 								>
 									<Link style={{ boxShadow: `none` }} to={node.fields.slug}>
