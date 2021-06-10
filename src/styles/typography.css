@@ -37,3 +37,7 @@ h1, h2, h3, h4 {
   font-family: Financier, Merriweather, serif;
   letter-spacing: 0.03em;
 }
+
+code {
+  font-size: 0.9em !important;
+}
